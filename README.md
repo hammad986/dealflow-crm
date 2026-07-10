@@ -10,7 +10,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?logo=tailwindcss)](https://tailwindcss.com)
 [![Netlify](https://img.shields.io/badge/Netlify-Ready-00C7B7?logo=netlify)](https://netlify.com)
 
-Built with care by [Aetherion Labs](https://github.com/aetherion-labs)
+Built with care by [Aetherion Labs](https://aetherionlabs.qzz.io/)
 
 </div>
 
